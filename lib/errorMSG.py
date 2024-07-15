@@ -3,7 +3,6 @@
 def using():
     msg = """
     -u , --url     : inter URL and in file inter DYBLACK404 Like < https://exampel/getImage?file=DYBLACK404 >
-    -m , --mutod   : MUTOD : http-post , http-get , ftp , ssh
     -f , --file    : get me name file Ex = -f "/etc/passwd" 
     -r , --respons : get me name in out put Ex = "root"
     -l , --loop     : inter numper of ../ 
